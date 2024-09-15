@@ -17,12 +17,10 @@ app-deployment основное приложение
 # App
 Приложение доступно по адресу 51.250.40.137
 точки входа:
-'''
-/
-/error
-/badrequest
-/metrics
-'''
+[#/](http://51.250.40.137/)
+[#/error](http://51.250.40.137/error)
+[#/badrequest](http://51.250.40.137/badrequest)
+[#/metrics](http://51.250.40.137/metrics)
 
 # Prometheus
 Можно потыкать по адресу [84.201.151.251](http://84.201.151.251/targets?search=)
